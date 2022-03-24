@@ -5,6 +5,7 @@
 VAR
 	varprueba: BOOL;
 	modifi: INT;
+	apocoyes: INT;
 END_VAR]]></Declaration>
     <Implementation>
       <ST><![CDATA[varprueba:= TRUE;
@@ -12,6 +13,7 @@ END_VAR]]></Declaration>
 modifi:=2;
 
 
+apocoyes:=3;
 ]]></ST>
     </Implementation>
   </POU>
