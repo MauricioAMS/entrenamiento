@@ -6,6 +6,7 @@ VAR
 	varprueba: BOOL;
 	modifi: INT;
 	apocoyes: INT;
+	cambio2: INT;
 END_VAR]]></Declaration>
     <Implementation>
       <ST><![CDATA[varprueba:= TRUE;
@@ -14,7 +15,11 @@ modifi:=2;
 
 
 apocoyes:=3;
+
+
+cambio2:=3;
 ]]></ST>
     </Implementation>
+    <Folder Name="VISUs" Id="{1b609ae3-1f31-4db9-a112-6229d8a17f70}" />
   </POU>
 </TcPlcObject>
