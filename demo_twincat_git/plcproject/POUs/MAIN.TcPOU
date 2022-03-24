@@ -4,9 +4,13 @@
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
 	varprueba: BOOL;
+	modifi: INT;
 END_VAR]]></Declaration>
     <Implementation>
       <ST><![CDATA[varprueba:= TRUE;
+
+modifi:=2;
+
 
 ]]></ST>
     </Implementation>
